@@ -20,3 +20,5 @@ Natürlich gibt es viele weitere Fehlerquellen, wie falsche Syntax oder so, aber
 
 Bearbeite die 5 Aufgaben der reihe nach, da sonst weitere Fehler auftreten.
 Kommentiere eine neue Aufgabe erst dann ein, wenn die vorherige fertig ist. (siehe app.jsx)
+
+Die eigentlichen Aufgaben stehen in den Tasks und teilweise in den unter Komponenten als Kommentar.
