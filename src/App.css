@@ -1,0 +1,56 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 3rem;
+  text-align: center;
+}
+
+main{
+  width: 90%;
+  margin: auto;
+}
+
+section{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  border: solid;
+}
+
+h1 {
+  font-size: 1.8rem;
+  margin-bottom: 1em;
+}
+
+h2{
+  width: 100%;
+  font-size: 2rem;
+}
+
+
+
+article{
+  width: 90%;
+  border: solid;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+
+.profile{
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.profile p{
+  width: 50%;
+}
