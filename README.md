@@ -1,6 +1,6 @@
 # Think like a Programmer!
 
-Bei manchen Aufgaben scheitert es nicht an den Fachkenntnissen oder den Codingfähigkeiten, sondern ehr daran das Problem zu sehen und den Fehler zu finden. Das hier ist eine kleine Übung um ein wenig an diesem Problem zu arbeiten. Es gibt insgesamt 10 Tasks wobei wir bei leicht anfangen und uns dann langsam steigern. Es gibt bestimmte Codezeilen, die nicht verändert werden dürfen, diese sind durch ein Commi // Dont touch! gekennzeichnet.
+Bei manchen Aufgaben scheitert es nicht an den Fachkenntnissen oder den Codingfähigkeiten, sondern ehr daran das Problem zu sehen und den Fehler zu finden. Das hier ist eine kleine Übung um ein wenig an diesem Problem zu arbeiten. Es gibt insgesamt 5 Tasks wobei wir bei leicht anfangen und uns dann langsam steigern. Es gibt bestimmte Codezeilen, die nicht verändert werden dürfen, diese sind durch ein Commi // Dont touch! gekennzeichnet.
 
 ## Stelle dir folgende Fragen bei Problemen
 
